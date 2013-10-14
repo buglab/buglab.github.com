@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="buglab.github.com:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="buglab.github.com.war">
+      <element id="artifact" artifact-name="buglab.github.com:war exploded" />
+    </root>
+  </artifact>
+</component>
